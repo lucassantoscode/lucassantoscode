@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Sou graduado pela **Universidade de Mogi das Cruzes(UMC)**
 - 🎓 Diploma em **Análise e Desenvolvimento de Sistemas(ADS)**
-- 💼 Interesse: **C#**, **CCST(Redes)**
+- 💼 Interesse: **CCST(Redes)**, **C#**
 
 # ✉ Contato
 
